@@ -56,7 +56,7 @@
     "name": "Cyber Beginner course",
     "category": "Cyber course",
     "price": 1299.0,
-    "image": "Frontend/images/cyber beginnersBlue__30_.jpg",
+    "image": "./images/cyber beginnersBlue__30_.jpg",
     "description": "Master the Art of Coding – Your Future Starts Here"
 
 
@@ -67,7 +67,7 @@
     "name": "CompTIA Security+ course",
     "category": "Cyber course",
     "price": 1299.0,
-    "image": "./",
+    "image": "./images/S+blob.png",
     "description": "Master the Art of Coding – Your Future Starts Here"
 },
   {
@@ -75,7 +75,7 @@
     "name": "CompTIA Pentest+ course",
     "category": "Cyber course",
     "price": 1299.0,
-    "image": "Frontend/images/testdownload.png",
+    "image": "./images/testdownload.png",
     "description": "Master the Art of Coding – Your Future Starts Here"
   }
 ]
