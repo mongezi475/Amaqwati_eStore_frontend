@@ -67,7 +67,7 @@
     "name": "CompTIA Security+ course",
     "category": "Cyber course",
     "price": 1299.0,
-    "image": "Frontend/images/S+blob.png",
+    "image": "./images/S+blob.png",
     "description": "Master the Art of Coding – Your Future Starts Here"
 },
   {
