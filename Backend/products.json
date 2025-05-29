@@ -9,73 +9,66 @@
   },
   {
     "id": "c++",
-    "name": "c++ guide",
-    "category": "Programming course",
+    "name": "C++ Guide",
+    "category": "Programming Course",
     "price": 450.0,
     "image": "images/ecourse.jpeg",
     "description": "Unlock the Power of Programming"
   },
-
   {
-    "id":"Web development",
-    "name": "Web deveolpment",
-    "category": "Programming course",
+    "id": "Web development",
+    "name": "Web Development",
+    "category": "Programming Course",
     "price": 450.0,
-    "image": "/images/web-development.png",
+    "image": "images/web-development.png",
     "description": "Unlock the Power of Programming"
   },
-
-{
-    "id":"Software development",
-    "name": "Software development",
-    "category": "Programming course",
+  {
+    "id": "Software development",
+    "name": "Software Development",
+    "category": "Programming Course",
     "price": 450.0,
     "image": "Frontend/images/Software-development-courses-Delhi-1535x1024.jpg",
     "description": "Unlock the Power of Programming"
-
-},
-
+  },
   {
     "id": "e101",
     "name": "Template",
-    "category": "Website template",
+    "category": "Website Template",
     "price": 49.99,
     "image": "images/web.jpeg",
     "description": "Elevate Your Online Presence with a Stunning Website Template"
   },
   {
     "id": "e102",
-    "name": " Programming course",
-    "category": "Cyber course",
+    "name": "Programming Course",
+    "category": "Cyber Course",
     "price": 1299.0,
     "image": "images/ecourse.jpeg",
     "description": "Master the Art of Coding – Your Future Starts Here"
   },
-{
-  "id": "Cyber security",
-    "name": "Cyber Beginner course",
-    "category": "Cyber course",
+  {
+    "id": "Cyber security",
+    "name": "Cyber Beginner Course",
+    "category": "Cyber Course",
     "price": 1299.0,
-    "image": "./images/cyber beginnersBlue__30_.jpg",
+    "image": "images/cyber_beginnersBlue_30_.jpg",
     "description": "Master the Art of Coding – Your Future Starts Here"
-
-
   },
-
   {
-     "id": "Cyber security",
-    "name": "CompTIA Security+ course",
-    "category": "Cyber course",
+    "id": "Cyber security",
+    "name": "CompTIA Security+ Course",
+    "category": "Cyber Course",
     "price": 1299.0,
-    "image": "./images/S+blob.png",
+    "image": "images/S+blob.png",
     "description": "Master the Art of Coding – Your Future Starts Here"
-},
+  },
   {
-     "id": "Cyber security",
-    "name": "CompTIA Pentest+ course",
-    "category": "Cyber course",
+    "id": "Cyber security",
+    "name": "CompTIA Pentest+ Course",
+    "category": "Cyber Course",
     "price": 1299.0,
-    "image": "./images/testdownload.png",
+    "image": "images/testdownload.png",
     "description": "Master the Art of Coding – Your Future Starts Here"
   }
 ]
