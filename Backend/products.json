@@ -1,0 +1,81 @@
+[
+  {
+    "id": "VPN",
+    "name": "VPN",
+    "category": "VPN",
+    "price": 200.0,
+    "image": "images/Vpn.jpeg",
+    "description": "Protects your online privacy by encrypting your internet connection"
+  },
+  {
+    "id": "c++",
+    "name": "c++ guide",
+    "category": "Programming course",
+    "price": 450.0,
+    "image": "images/ecourse.jpeg",
+    "description": "Unlock the Power of Programming"
+  },
+
+  {
+    "id":"Web development",
+    "name": "Web deveolpment",
+    "category": "Programming course",
+    "price": 450.0,
+    "image": "/images/web-development.png",
+    "description": "Unlock the Power of Programming"
+  },
+
+{
+    "id":"Software development",
+    "name": "Software development",
+    "category": "Programming course",
+    "price": 450.0,
+    "image": "Frontend/images/Software-development-courses-Delhi-1535x1024.jpg",
+    "description": "Unlock the Power of Programming"
+
+},
+
+  {
+    "id": "e101",
+    "name": "Template",
+    "category": "Website template",
+    "price": 49.99,
+    "image": "images/web.jpeg",
+    "description": "Elevate Your Online Presence with a Stunning Website Template"
+  },
+  {
+    "id": "e102",
+    "name": " Programming course",
+    "category": "Cyber course",
+    "price": 1299.0,
+    "image": "images/ecourse.jpeg",
+    "description": "Master the Art of Coding – Your Future Starts Here"
+  },
+{
+  "id": "Cyber security",
+    "name": "Cyber Beginner course",
+    "category": "Cyber course",
+    "price": 1299.0,
+    "image": "Frontend/images/cyber beginnersBlue__30_.jpg",
+    "description": "Master the Art of Coding – Your Future Starts Here"
+
+
+  },
+
+  {
+     "id": "Cyber security",
+    "name": "CompTIA Security+ course",
+    "category": "Cyber course",
+    "price": 1299.0,
+    "image": "Frontend/images/S+blob.png",
+    "description": "Master the Art of Coding – Your Future Starts Here"
+},
+  {
+     "id": "Cyber security",
+    "name": "CompTIA Pentest+ course",
+    "category": "Cyber course",
+    "price": 1299.0,
+    "image": "Frontend/images/testdownload.png",
+    "description": "Master the Art of Coding – Your Future Starts Here"
+  }
+]
