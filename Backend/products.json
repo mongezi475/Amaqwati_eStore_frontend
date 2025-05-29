@@ -18,7 +18,7 @@
   {
     "id": "Web development",
     "name": "Web Development",
-    "category": "Programming Course",
+    "category":"Programming Course",
     "price": 450.0,
     "image": "images/web-development.png",
     "description": "Unlock the Power of Programming"
@@ -61,7 +61,7 @@
     "category": "Cyber Course",
     "price": 1299.0,
     "image": "images/S+blob.png",
-    "description": "Master the Art of Coding – Your Future Starts Here"
+    "description":"Kickstart your cybersecurity journey with essential knowledge in risk management, threat detection, and network security. Gain industry-recognized skills that prepare you for real-world security challenges."
   },
   {
     "id": "Cyber security",
